@@ -771,4 +771,4 @@ st.markdown("""
     <p>🚀 <strong>Personal Automation Hub</strong> | Enhanced by Group No. 8 | 
     Built with ❤️ using Streamlit</p>
 </div>
-"""
+""", unsafe_allow_html=True)
