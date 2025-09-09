@@ -1,6 +1,6 @@
 # 🚀 Advanced Personal Automation Hub
 
-**Enhanced Coursework 1 - Group No. 8**
+**Enhanced Coursework 1 - Group B*
 
 A modern, feature-rich Python application that automates daily tasks, provides financial insights, and facilitates group management with an intuitive web interface.
 
