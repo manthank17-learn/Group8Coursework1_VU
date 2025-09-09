@@ -1,2 +1,28 @@
-streamlit
+# Personal Automation Hub - Requirements
+# Enhanced Coursework 1 - Group No. 8
 
+# Core Dependencies (Required)
+streamlit>=1.28.0
+pandas>=2.0.0
+plotly>=5.15.0
+
+# Data Processing
+numpy>=1.24.0
+
+# Built-in modules (no installation needed):
+# - datetime
+# - random
+# - time
+# - typing
+
+# Optional Development Tools (uncomment if needed)
+# pytest>=7.0.0        # For testing
+# black>=23.0.0         # Code formatting
+# flake8>=6.0.0         # Code linting
+# mypy>=1.0.0           # Type checking
+
+# Installation command:
+# pip install -r requirements.txt
+
+# For specific Python versions:
+# Python >= 3.8 required
