@@ -347,53 +347,6 @@ elif selected_tab == "📊 Analytics":
     with col4:
         st.metric("⭐ User Rating", "4.9/5", delta="0.1")
 
-else:  # About tab
-    st.markdown("### ℹ️ About This Project")
-    
-    st.markdown("""
-    <div class="feature-card">
-        <h4>🎓 Enhanced Coursework 1 - Group No. 8</h4>
-        <p>This advanced version includes modern UI components, data visualization, 
-        enhanced functionality, and improved user experience.</p>
-    </div>
-    """, unsafe_allow_html=True)
-    
-    st.markdown("#### 👥 Team Members")
-    team_members = [
-        ("AKELLO PRISCILLA", "VU-BBC-2503-0802-DAY"),
-        ("Manthan Kumar", "VY-BBC-2503-0494-DAY"),
-        ("Ainembabazi Ollen", "VU-BSF-2503-0047-DAY"),
-        ("Najjemba Sarah Leon", "VU-BBC-2503-2377-DAY"),
-        ("ASIIMWE ROGERS PRAISE", "VU-DIT-2503-0111-DAY")
-    ]
-    
-    for name, id_num in team_members:
-        st.write(f"• **{name}** — {id_num}")
-    
-    st.markdown("#### 🚀 New Features Added")
-    enhancements = [
-        "🎨 Modern gradient UI with custom CSS",
-        "📊 Interactive data visualizations with Plotly",
-        "⚡ Real-time metrics and progress tracking",
-        "🎯 Advanced financial planning with projections",
-        "🔄 Multiple grouping algorithms",
-        "📈 Analytics dashboard with usage statistics",
-        "💫 Smooth animations and transitions",
-        "📱 Responsive design for all devices"
-    ]
-    
-    for enhancement in enhancements:
-        st.write(enhancement)
-    
-    st.markdown("#### 🛠️ Technologies Used")
-    st.code("""
-    • Streamlit - Web framework
-    • Plotly - Interactive visualizations  
-    • Pandas - Data manipulation
-    • Custom CSS - Modern styling
-    • Python - Core logic
-    """)
-
 # --- Footer ---
 st.markdown("---")
 st.markdown("""
