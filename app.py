@@ -16,7 +16,7 @@ Motivational_messages = (
 st.title("🚀 Coursework 1 - Personal Automation Hub")
 
 st.markdown("""
-## 👥 Group No. 8  
+## 👥 Group B
 
 - **AKELLO PRISCILLA** — VU-BBC-2503-0802-DAY  
 - **Manthan Kumar** — VY-BBC-2503-0494-DAY  
