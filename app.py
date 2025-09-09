@@ -402,7 +402,7 @@ if selected_tab == "ℹ️ About":
         <p><strong>Advanced Personal Automation Hub</strong> is a comprehensive Python application that automates daily tasks, 
         provides financial insights, and facilitates group management with an intuitive web interface.</p>
         
-        <h4>👥 Group No. 8 Team Members:</h4>
+        <h4>👥 Group B Team Members:</h4>
     </div>
     """, unsafe_allow_html=True)
     
