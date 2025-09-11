@@ -376,7 +376,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>🚀 Advanced Personal Automation Hub</h1>
-    <p>Group No. 8 - Enhanced Version with Modern UI</p>
+    <p>Group No.2 - Enhanced Version with Modern UI</p>
 </div>
 """, unsafe_allow_html=True)
 
